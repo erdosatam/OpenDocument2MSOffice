@@ -7,7 +7,8 @@
 
 >Requirements:
 
-	This script requires installed libreoffice on the system. Tested on libreoffice version 5 and upper. <br> If the libreoffice quicstart tray is running this script is not working well so you have to close it before run this script.
+	This script requires installed libreoffice on the system. Tested on libreoffice version 5 and upper. \n
+	If the libreoffice quicstart tray is running this script is not working well so you have to close it before run this script.
 
 
 >Author:
